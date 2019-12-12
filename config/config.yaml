@@ -1,5 +1,7 @@
 %YAML:1.0
 # data
-flow_path: /home/xiang/Desktop/image/sintel/flo/000000.flo
-image1_path: /home/xiang/Desktop/image/sintel/alley_1/frame_0001.png
-image2_path: /home/xiang/Desktop/image/sintel/alley_1/frame_0002.png
+#flow_path: /home/xiang/Desktop/image/sintel/flo/000000.flo
+#image1_path: /home/xiang/Desktop/image/sintel/alley_1/frame_0001.png
+#image2_path: /home/xiang/Desktop/image/sintel/alley_1/frame_0002.png
+flow_path: /home/xiang/Desktop/image/sintel/flo/
+image_path: /home/xiang/Desktop/image/sintel/alley_1/

@@ -1,10 +1,14 @@
 //
 // Created by xiang on 2019/12/12.
 //
+//
+// Created by xiang on 2019/12/12.
+//
 
 /*
  * 通过光流图像进行特征点位置更新
  * 多点
+ * 多图
  */
 #include "flowIOOpenCVWrapper.h"
 #define UNKNOWN_FLOW_THRESH 1e9
@@ -189,3 +193,4 @@ int main(int argc, char** argv) {
     cv::waitKey(0);
     return 0;
 }
+
